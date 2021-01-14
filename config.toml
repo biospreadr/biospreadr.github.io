@@ -1,0 +1,4 @@
+baseURL = "http://mte482-2020-g33.github.io/"
+languageCode = "en-us"
+title = "MTE482 2021 Group 33"
+theme = "hugo-geekdoc"
