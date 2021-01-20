@@ -44,38 +44,6 @@
         </div>
         {{ end }}
       </div>
-
-      {{ if .Site.Params.call_to_action.enable }}
-      {{ with .Site.Params.call_to_action }}
-      <div class="wp-block-group alignwide has-background" style="background-color:#ffffff">
-        <div class="wp-block-group__inner-container">
-          <div class="wp-block-group">
-            <div class="wp-block-group__inner-container">
-              <h2 class="has-text-align-center">{{ .title | markdownify }}</h2>
-              <p class="has-text-align-center">{{ .content | markdownify }}</p>
-              <div class="wp-block-button aligncenter"><a class="wp-block-button__link"
-                  href="{{ .button_url | absURL }}">{{ .button_label }}</a></div>
-            </div>
-          </div>
-        </div>
-      </div>
-      {{ end }}
-      {{ end }}
-
-      
-      {{ if .Site.Params.gallery.enable }}
-      {{ with .Site.Params.gallery }}
-      <figure class="wp-block-gallery alignwide columns-2 is-cropped">
-        <ul class="blocks-gallery-grid">
-          {{ range .gallery_item }}
-          <li class="blocks-gallery-item">
-            <figure><img src="{{ .image | absURL }}"/></figure>
-          </li>
-          {{ end }}
-        </ul>
-      </figure>
-      {{ end }}
-      {{ end }}
     </div><!-- .entry-content -->
   </div><!-- .post-inner -->
 </article>
