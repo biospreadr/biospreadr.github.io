@@ -1,4 +1,4 @@
-baseURL = "http://biospreadr.github.io/"
+baseURL = "https://biospreadr.github.io/"
 languageCode = "en-us"
 title = "Biospreadr"
 theme = "twenty-twenty-hugo"
