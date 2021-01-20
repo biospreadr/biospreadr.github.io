@@ -1,4 +1,76 @@
-baseURL = "http://mte482-2020-g33.github.io/"
+baseURL = "http://biospreadr.github.io/"
 languageCode = "en-us"
-title = "MTE482 2021 Group 33"
-theme = "hugo-geekdoc"
+title = "Biospreadr"
+theme = "twenty-twenty-hugo"
+
+############################## navigation ###############################
+
+# main menu
+[[menu.main]]
+name = "Home"
+URL = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+URL = "about"
+weight = 2
+
+[[menu.main]]
+name = "Blog"
+URL = "blog"
+weight = 3
+
+[[menu.main]]
+name = "Team"
+URL = "team"
+weight = 4
+
+#################### default parameters ################################
+[params]
+# Meta data
+description = "This is meta description"
+author = "Themefisher"
+
+# cookies
+[params.cookies]
+enable = true
+expire_days = 2
+
+# banner
+[params.banner]
+heading = "Bringing automation to biomedical laboratories."
+image = "images/481_full_design.png"
+
+# blog
+[params.blog]
+heading = "We need to find something to write here. Lorem ipsum dolor sit amet."
+
+# call to action
+[params.call_to_action]
+enable = false
+title = "Contact us for more information."
+content = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis"
+button_label = "Contact Us"
+button_url = "contact"
+
+# gallery
+[params.gallery]
+enable = false
+
+# footer
+[params.footer]
+title = "About This Site"
+content = ""
+address = "123 Main Street <br> New York, NY 10001"
+hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM"
+copyright = "Copyright &copy; 2020-2021 Biospreadr"
+
+############################# social site ########################
+[params.social]
+yelp = "#"
+facebook = "#"
+twitter = "#"
+instagram = "#"
+email = "#"
+linkedin = "#"

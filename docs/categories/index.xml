@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on MTE482 2021 Group 33</title>
-    <link>http://mte482-2020-g33.github.io/categories/</link>
-    <description>Recent content in Categories on MTE482 2021 Group 33</description>
+    <title>Categories on Biospreadr</title>
+    <link>http://biospreadr.github.io/categories/</link>
+    <description>Recent content in Categories on Biospreadr</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://mte482-2020-g33.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://biospreadr.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weekly updates</title>
+      <link>http://biospreadr.github.io/categories/weekly-updates/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://biospreadr.github.io/categories/weekly-updates/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

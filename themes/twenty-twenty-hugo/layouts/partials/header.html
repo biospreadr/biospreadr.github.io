@@ -1,0 +1,17 @@
+<header id="site-header" class="header-footer-group" role="banner">
+  <div class="header-inner section-inner">
+    <div class="header-titles-wrapper">
+      <div class="header-titles">
+        <div class="site-title faux-heading"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></div>
+      </div><!-- .header-titles -->
+    </div><!-- .header-titles-wrapper -->
+
+    <div class="header-navigation-wrapper">
+      <nav class="primary-menu-wrapper" aria-label="Horizontal" role="navigation">
+        {{ range .Site.Menus.main }}
+        <div class="site-title"><a href="{{ .URL | absURL }}">{{ .Name }}</a></div>
+        {{ end }}
+      </nav><!-- .primary-menu-wrapper -->
+    </div><!-- .header-navigation-wrapper -->
+  </div><!-- .header-inner -->
+</header>
