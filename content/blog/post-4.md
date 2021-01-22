@@ -1,6 +1,6 @@
 ---
 title: "Weekly Update 4"
-date: 2021-02-10
+date: 2021-02-21
 image : "images/481_full_design.png"
 # author
 author : ["Biospreadr Team"]

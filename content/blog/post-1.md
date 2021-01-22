@@ -1,6 +1,6 @@
 ---
 title: "Weekly Update 1"
-date: 2021-01-13
+date: 2021-01-31
 image : "images/481_suction_mechanism.png"
 # author
 author : ["Biospreadr Team"]
