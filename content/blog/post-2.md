@@ -1,6 +1,6 @@
 ---
 title: "Weekly Update 2"
-date: 2021-02-7
+date: 2021-02-07
 image : "images/481_scotch_yokes.png"
 # author
 author : ["Biospreadr Team"]
