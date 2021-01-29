@@ -1,5 +1,5 @@
 ---
-title: "Weekly Update 1"
+title: "Kicking things off, ordering parts, and 3D printing"
 date: 2021-01-29
 image : "images/481_suction_mechanism.png"
 # author
