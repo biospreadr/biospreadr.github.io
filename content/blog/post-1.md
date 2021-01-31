@@ -34,23 +34,23 @@ Overall, this initial preparation phase was successful and all our team members 
 
 Work on the carrier tube began with the rental of a 3D printer from a friend. It took some time to get acquainted with the printer, specifically with axes calibration (XYZ), levelling of the bed, and fine-tuning the Z level of the extruder. Overall, this process took several days, and many prints were botched during the process (as can be seen in the following photos).
 
-!["Carrier Tube (1)"](../images/wk1-carrier-tube-busted1.jpg)
+![Carrier Tube (1)](/images/wk1-carrier-tube-busted1.jpg)
 
-!["Carrier Tube (2)"](../images/wk1-carrier-tube-busted2.jpg)
+![Carrier Tube (2)](/images/wk1-carrier-tube-busted2.jpg)
 
-!["Carrier Tube (3)"](../images/wk1-carrier-tube-busted3.jpg)
+![Carrier Tube (3)](/images/wk1-carrier-tube-busted3.jpg)
  
 Getting high-quality prints from a 3D printer isn't a matter of just opening the CAD model and pressing Ctrl+P, there is quite a bit that has to be taken into account.
 Even mundane things like airflow and air temperature around the printer can completely ruin the print and cost hours of progress.
  
 Eventually after many failed prints, the main body of the carrier tube and the tube itself were printed. By this time, parts from McMaster-Carr were received and test fits of everything could be conducted. Some sanding of the reservoir tube was required, as well as the addition of some lead-in chamfers to assist in the fit. These manual improvements will be added to the CAD. Additionally, some support material was removed from the various holes of the parts to assist in the dowel and Delrin bead fit. The following photos show a screenshot of the printer configuration, the setup used during this process, and the improved mechanical components of the carrier tube.
 
-!["Carrier Tube (4)"](../images/wk1-carrier-tube-1.png)
+![Carrier Tube (4)](/images/wk1-carrier-tube-1.png)
 
-!["Carrier Tube (5)"](../images/wk1-carrier-tube-2.jpg)
+![Carrier Tube (5)](/images/wk1-carrier-tube-2.jpg)
 
-!["Carrier Tube (6)"](../images/wk1-carrier-tube-3.jpg)
- 
+![Carrier Tube (6)](/images/wk1-carrier-tube-3.jpg)
+
 The Delrin beads pass through the parts without any problems and the feed tubes have a nice fit as well.
 Overall the 3D printing process is well suited to this type of design, given that it is relatively consistent (once it is fine tuned) and provides acceptable quality.
 
