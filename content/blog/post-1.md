@@ -24,9 +24,9 @@ Over the first weeks of the term the team focused on getting organized, setting 
 The project management tasks included establishing how work would be divided amongst group members, creating a timeline of when we expect/want to get project milestones completed by, and deciding how we would manage the purchasing of components and materials.
 
 The final breakdown of team responsibilities was based on geographic location:
-* Emil & Maddie will work on the carrier tube assembly in waterloo
+* Emil & Maddie will work on the carrier tube assembly in Waterloo
 * Nik will work on the suction mechanism in Hamilton
-* Chris will work on detailed mechanical implementation (CAD, DFM, fluid analysis)
+* Chris will work on detailed mechanical simulation (CAD, DFM, fluid analysis) in Halifax
 
 Overall, this initial preparation phase was successful and all our team members are in a good position to start implementing and testing our designs. Because the body of the carrier tube assembly is 3D printed, we could kick off the build phase for this part before the suction mechanism which will be started next week.
 
