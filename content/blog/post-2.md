@@ -1,5 +1,5 @@
 ---
-title: "Weekly Update 2"
+title: "More progress on the Carrier Tube Mechanism"
 date: 2021-02-07
 image : "images/481_scotch_yokes.png"
 # author
