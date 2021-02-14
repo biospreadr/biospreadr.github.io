@@ -1,7 +1,7 @@
 ---
 title: "More progress on the Carrier Tube Mechanism"
 date: 2021-02-07
-image : "images/481_scotch_yokes.png"
+image : "images/481_carrier_tube.png"
 # author
 author : ["Biospreadr Team"]
 # categories

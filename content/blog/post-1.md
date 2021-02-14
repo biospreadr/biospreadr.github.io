@@ -1,7 +1,7 @@
 ---
 title: "Kicking things off, ordering parts, and 3D printing"
 date: 2021-01-31
-image : "images/481_suction_mechanism.png"
+image : "images/481_carrier_tube.png"
 # author
 author : ["Biospreadr Team"]
 # categories
