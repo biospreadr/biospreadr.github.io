@@ -1,6 +1,6 @@
 ---
 title: "Starting on the Suction Mechanism and Carrier Tube progress"
-date: 2021-02-15
+date: 2021-02-14
 image : "images/481_suction_mechanism.png"
 # author
 author : ["Biospreadr Team"]
@@ -31,6 +31,12 @@ The plate with the sensor and suction cup attached can be seen below:
 
 ## Carrier Tube: Electrical Updates
 
-...
+This week was a lot of troubleshooting for the work on the carrier tube mechanism. The datasheet for the solenoid indicated that it could operate when supplied 5-6V with 0.8-1A. After testing out various power supplies rated at 5V and 1-1.2A, the carrier tube was still not working as intended. As seen in the following video, the solenoid could only retract when assisted by an external force.
 
-![Alt Text](https://media.giphy.com/media/BcucgcR1r321H8FTqu/giphy.gif)
+![Carrier tube assisted](https://media.giphy.com/media/BcucgcR1r321H8FTqu/giphy.gif)
+
+We considered various causes for the issues we were experiencing including insufficient power capabilities of the supplies, faulty supplies, or faulty cables used to connect the supply to the motor shield. After further research, we were able to find more technical details about the solenoid which revealed that the solenoid would have weak performance if not supplied at least 6V. We were able to test the system using a variable power supply and confirmed that the solenoid needed 6V to operate properly when connected directly to the supply. After connecting the solenoid through the shield to the supply, it was still operating poorly (as it was when being fed 5V) despite being supplied 6V. It was determined that using the shield resulted in a significant voltage drop. All of the system components are rated to handle voltages above 6V and so we felt comfortable testing with a voltage of 7V being applied to the shield. Doing so resulted in the solenoid receiving around 6.5V which was enough to make it function properly, as seen in the following video.
+
+![Carrier tube working](https://media.giphy.com/media/gThNMABSskNBb6IXn0/giphy.gif)
+
+Now that we have the carrier tube working as expected, our next step will be looking for a fixed power supply that can provide sufficient power to the solenoid. We will also be working on the code required for the final design, which is similar to what we wrote to test the carried mechanism throughout this process. Finally, we will be working on the mechanical assembly needed to mount the carrier tube such that it can be used to dispense beads into the Petri dish.
