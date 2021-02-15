@@ -39,4 +39,4 @@ We considered various causes for the issues we were experiencing including insuf
 
 ![Carrier tube working](https://media.giphy.com/media/gThNMABSskNBb6IXn0/giphy.gif)
 
-Now that we have the carrier tube working as expected, our next step will be looking for a fixed power supply that can provide sufficient power to the solenoid. We will also be working on the code required for the final design, which is similar to what we wrote to test the carried mechanism throughout this process. Finally, we will be working on the mechanical assembly needed to mount the carrier tube such that it can be used to dispense beads into the Petri dish.
+Now that we have the carrier tube working as expected, our next step will be looking for a fixed power supply that can provide sufficient power to the solenoid. We will also be working on the code required for the final design, which is similar to what we wrote to test the carrier tube mechanism throughout this process. Finally, we will be working on the mechanical assembly needed to mount the carrier tube such that it can be used to dispense beads into the Petri dish.
