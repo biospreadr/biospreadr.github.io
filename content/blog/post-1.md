@@ -1,9 +1,9 @@
 ---
 title: "Kicking things off, ordering parts, and 3D printing"
 date: 2021-01-31
-image : "images/481_carrier_tube.png"
+image: "images/481_full_design.png"
 # author
-author : ["Biospreadr Team"]
+author: ["Biospreadr Team"]
 # categories
 categories: ["Weekly updates"]
 tags: ["update"]
@@ -24,9 +24,10 @@ Over the first weeks of the term the team focused on getting organized, setting 
 The project management tasks included establishing how work would be divided amongst group members, creating a timeline of when we expect/want to get project milestones completed by, and deciding how we would manage the purchasing of components and materials.
 
 The final breakdown of team responsibilities was based on geographic location:
-* Emil & Maddie will work on the carrier tube assembly in Waterloo
-* Nik will work on the suction mechanism in Hamilton
-* Chris will work on detailed mechanical simulation (CAD, DFM, fluid analysis) in Halifax
+
+- Emil & Maddie will work on the carrier tube assembly in Waterloo
+- Nik will work on the suction mechanism in Hamilton
+- Chris will work on detailed mechanical simulation (CAD, DFM, fluid analysis) in Halifax
 
 Overall, this initial preparation phase was successful and all our team members are in a good position to start implementing and testing our designs. Because the body of the carrier tube assembly is 3D printed, we could kick off the build phase for this part before the suction mechanism which will be started next week.
 
@@ -39,10 +40,10 @@ Work on the carrier tube began with the rental of a 3D printer from a friend. It
 ![Carrier Tube (2)](/images/wk1-carrier-tube-busted2.jpg)
 
 ![Carrier Tube (3)](/images/wk1-carrier-tube-busted3.jpg)
- 
+
 Getting high-quality prints from a 3D printer isn't a matter of just opening the CAD model and pressing Ctrl+P, there is quite a bit that has to be taken into account.
 Even mundane things like airflow and air temperature around the printer can completely ruin the print and cost hours of progress.
- 
+
 Eventually after many failed prints, the main body of the carrier tube and the tube itself were printed. By this time, parts from McMaster-Carr were received and test fits of everything could be conducted. Some sanding of the reservoir tube was required, as well as the addition of some lead-in chamfers to assist in the fit. These manual improvements will be added to the CAD. Additionally, some support material was removed from the various holes of the parts to assist in the dowel and Delrin bead fit. The following photos show a screenshot of the printer configuration, the setup used during this process, and the improved mechanical components of the carrier tube.
 
 ![Carrier Tube (4)](/images/wk1-carrier-tube-1.png)
