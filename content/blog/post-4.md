@@ -78,9 +78,9 @@ We started our simulation efforts by cleaning up our existing CAD models for the
 
 We also started on some basic DFM considerations. This included making physically machinable parts. As seen in the comparison image below, the original CAD had a base plate with protruding supports which is infeasible to manufacture in any way. This was fine for an initial concept, but needed to be improved for more detailed plans. The original supports were replaced with supports that could be screwed into the base plate.
 
-|             **Original CAD**              |              **Updated CAD**              |
-| :---------------------------------------: | :---------------------------------------: |
-| !![Old supports](/images/wk4-cad-old.png) | !![New supports](/images/wk4-cad-new.png) |
+|             **Original CAD**             |             **Updated CAD**              |
+| :--------------------------------------: | :--------------------------------------: |
+| ![Old supports](/images/wk4-cad-old.png) | ![New supports](/images/wk4-cad-new.png) |
 
 Other DFM considerations that were made were as follows:
 
