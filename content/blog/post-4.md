@@ -33,7 +33,7 @@ The following two images show the updated system construction:
 
 After the initial construction of the system was complete, the next step was performing the relevant system tests.
 
-The ultrasonic sensor being used to detect the success of lifting and replacing the lid on the Petri dish had to be characterized before the system could operate as intended.
+The ultrasonic sensor being used to detect the success of lifting and dropping the lid on the Petri dish had to be characterized before the system could operate as intended.
 
 ![Suction cup and dish](/images/wk3-suction-cupanddish.jpg)
 
@@ -72,4 +72,20 @@ Overall, this was an exciting week for progress on the suction mechanism. Next s
 
 ## Mechanical Simulation: Initial Updates
 
-... Coming soon
+This week we were also able to make significant progress on our mechanical simulation. Due to COVID-19 complications our team opted for a highly detailed mechanical simulation instead of physically making either the scotch yoke mechanism, or the entire compiled BioSpreadr machine. Both of these weren't feasbile given our resources and restrictions this term.
+
+We started our simulation efforts by cleaning up our existing CAD models for the system. This included selection of certain components that were not included in our original, simplified model. Specifically, component selection of fasteners, shaft keys, and retaining rings for the system was done.
+
+We also started on some basic DFM considerations. This included making physically machinable parts. As seen in the comparison image below, the original CAD had a base plate with protruding supports which is infeasible to manufacture in any way. This was fine for an initial concept, but needed to be improved for more detailed plans. The original supports were replaced with supports that could be screwed into the base plate.
+
+|             **Original CAD**              |              **Updated CAD**              |
+| :---------------------------------------: | :---------------------------------------: |
+| !![Old supports](/images/wk4-cad-old.png) | !![New supports](/images/wk4-cad-new.png) |
+
+Other DFM considerations that were made were as follows:
+
+- Threads need to be no longer than roughly 3 times the diameter of the major diameter
+- No fillets can be at horizontal edges at the bottom of a machined hole, but fillets at vertical edges of a machined hole are required
+- Breaking all exterior edges
+
+It was great to get the mechanical simulation underway and we are looking forward to getting the models fully flushed out! Next steps will be using the CAD to develop a high quality animation and exploded view of the model, which will be used to demonstrate how the system would operate as a fully assembled, physical prototype.
