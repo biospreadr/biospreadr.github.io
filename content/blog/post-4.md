@@ -21,7 +21,7 @@ draft: false
 
 This past week was the Winter reading week, so we took advantage of the opportunity to make a lot of progress on the suction mechanism.
 
-We were able to get the base construction complete including wiring for the controller, shield, vacuum pump, ultrasonic sensor, and power system. In addition to the base assembly, we integrated a push button to start the process of lifting the dish lid with the suction mechanism and an LED used for error signaling. Both of these peripherals required appropriately specced pull-down resistors.
+We were able to get the base construction complete including wiring for the controller, shield, vacuum pump, ultrasonic sensor, and power system. In addition to the base assembly, we integrated a push button to start the process of lifting the dish lid with the suction mechanism and an LED used for error signalling. Both of these peripherals required appropriately specced pull-down resistors.
 
 The following two images show the updated system construction:
 
@@ -42,7 +42,7 @@ The conclusions from this characterization were that the sensor behaves linearly
 ![Sensor graph](/images/482-sensor-graph.jpg)
 (Note: the sensor is not rated for distances less than 2cm)
 
-Once the ultrasonic sensor was tested, the suction mechanism could be physical tested. The following video demonstrates the current operation of the suction mechanism. As you can see, the pump responds to the push button input, allowing the lid to be removed from the dish, and turns off after an appropriate wait time.
+Once the ultrasonic sensor was tested, the suction mechanism could be physically tested. The following video demonstrates the current operation of the suction mechanism. As you can see, the pump responds to the push button input, allowing the lid to be removed from the dish, and turns off after an appropriate wait time.
 
 ![Suction operation](https://media.giphy.com/media/2LLg5FPz1tQl7gIna5/giphy.gif)
 
@@ -62,12 +62,10 @@ Code was first written to setup the relevant I/O pins and to poll the push butto
 
 The error handling described is demonstrated in the following videos:
 
-#### Alignment and initial attachment error
-
+**Alignment and initial attachment error**
 ![Suction error](https://media.giphy.com/media/ymYyspDihJIDFyxg82/giphy.gif)
 
-#### Forcing the lid off mid-process
-
+**Forcing the lid off mid-process**
 ![Suction error forced](https://media.giphy.com/media/6hRtBTwRIiMeW9G2dC/giphy.gif)
 
 Overall, this was an exciting week for progress on the suction mechanism. Next steps will be modifying and improving the system layout and characterizing the suction mechanism to ensure optimal performance.
