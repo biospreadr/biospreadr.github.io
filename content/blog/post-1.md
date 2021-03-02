@@ -19,7 +19,7 @@ This is our first blog post out of many that will be coming over the next few mo
 
 # Weeks 1-3
 
-Over the first weeks of the term the team focused on getting organized, setting up the BioSpreadr website, checking in with our project supervisors, ordering parts, and beginning the development of the carrier tube component. All parts were procured from either McMaster-Carr, DigiKey, or the personal supply of team members. These two external suppliers were chosen for their reliability, fast shipping times, and excellent selection of products which fulfilled all our project needs.
+Over the first weeks of the term the team focused on getting organized, setting up the **BioSpreadr** website, checking in with our project supervisors, ordering parts, and beginning the development of the carrier tube component. All parts were procured from either McMaster-Carr, DigiKey, or the personal supply of team members. These two external suppliers were chosen for their reliability, fast shipping times, and excellent selection of products which fulfilled all our project needs.
 
 The project management tasks included establishing how work would be divided amongst group members, creating a timeline of when we expect/want to get project milestones completed by, and deciding how we would manage the purchasing of components and materials.
 
@@ -55,4 +55,4 @@ Eventually after many failed prints, the main body of the carrier tube and the t
 The Delrin beads pass through the parts without any problems and the feed tubes have a nice fit as well.
 Overall the 3D printing process is well suited to this type of design, given that it is relatively consistent (once it is fine tuned) and provides acceptable quality.
 
-The next steps for the carrier tube assembly are the addition of the solenoid and system integration of the mechanical carrier tube components with the electronics and software. We'll also be starting on the other elements of the project soon, so stay tuned to stay up to date with BioSpreadr's progress!
+The next steps for the carrier tube assembly are the addition of the solenoid and system integration of the mechanical carrier tube components with the electronics and software. We'll also be starting on the other elements of the project soon, so stay tuned to stay up to date with **BioSpreadr**'s progress!

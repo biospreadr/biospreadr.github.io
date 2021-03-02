@@ -72,7 +72,7 @@ Overall, this was an exciting week for progress on the suction mechanism. Next s
 
 ## Mechanical Simulation: Initial Updates
 
-This week we were also able to make significant progress on our mechanical simulation. Due to COVID-19 complications our team opted for a highly detailed mechanical simulation instead of physically making either the scotch yoke mechanism, or the entire compiled BioSpreadr machine. Both of these weren't feasbile given our resources and restrictions this term.
+This week we were also able to make significant progress on our mechanical simulation. Due to COVID-19 complications our team opted for a highly detailed mechanical simulation instead of physically making either the scotch yoke mechanism, or the entire compiled **BioSpreadr** machine. Both of these weren't feasbile given our resources and restrictions this term.
 
 We started our simulation efforts by cleaning up our existing CAD models for the system. This included selection of certain components that were not included in our original, simplified model. Specifically, component selection of fasteners, shaft keys, and retaining rings for the system was done.
 
