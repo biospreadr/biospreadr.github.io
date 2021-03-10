@@ -29,7 +29,7 @@ After adding the guide we recalibrated and tested the system. The specific metho
 
 ![Updated system](https://media.giphy.com/media/pkynAkQnz64XW9alfp/giphy.gif)
 
-Some additional error handling was also added this week. Specfically, test cases for the suction cup being too far away, no lid on the Petri dish, failure to lift the lid, and dropping the lid were considered. The following video demonstrates the 4 error cases.
+Some additional error handling was also added this week. Specfically, test cases for the suction cup being too far away, no lid on the Petri dish, failure to lift the lid, and dropping the lid were considered. The following videos demonstrate the 4 error cases.
 
 * Too far away: ![Error (1)](https://media.giphy.com/media/qU8wdJGBbBdhmnVcN0/giphy.gif)
 * No lid: ![Error (2)](https://media.giphy.com/media/EG8YZtnVp8ZIqrHBvJ/giphy.gif)
@@ -47,10 +47,6 @@ After finalizing the electrical system for the carrier tube mechanism last week 
 
 For mechanical simulation, we generated an exploded view animation and an animation of the system operating to demonstrate the updated CAD models for the system. These animations can be seen below.
 
-![Exploded view (1)](https://media.giphy.com/media/OEifqXmrvqrNWEZngO/giphy.gif)
+![Exploded view](https://media.giphy.com/media/o7l2D80HZKMOxhWl9K/giphy.gif)
 
-![Exploded view (2)](https://media.giphy.com/media/NTcr4BJ91aXuGqorrY/giphy.gif)
-
-![Motion (1)](https://media.giphy.com/media/J75OKsiy1fhkaSszSZ/giphy.gif)
-
-![Motion (2)](https://media.giphy.com/media/LLpC1vsli2Hjq212s3/giphy.gif)
+![Motion](https://media.giphy.com/media/52gD4pD6s1ZizyUO6t/giphy.gif)
