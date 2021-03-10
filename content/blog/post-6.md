@@ -47,8 +47,10 @@ After finalizing the electrical system for the carrier tube mechanism last week 
 
 For mechanical simulation, we generated an exploded view animation and an animation of the system operating to demonstrate the updated CAD models for the system. These animations can be seen below.
 
-<!-- ![Exploded view](https://media.giphy.com/media/o7l2D80HZKMOxhWl9K/giphy.gif) -->
+![Exploded view (1)](https://media.giphy.com/media/OEifqXmrvqrNWEZngO/giphy.gif)
 
-<!-- ![Motion](https://tenor.com/view/gif-20684872) -->
+![Exploded view (2)](https://media.giphy.com/media/NTcr4BJ91aXuGqorrY/giphy.gif)
 
-<div class="tenor-gif-embed" data-postid="20684872" data-share-method="host" data-width="100%" data-aspect-ratio="1.7785714285714287"><a href="https://tenor.com/view/gif-20684872"></a> </div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Motion (1)](https://media.giphy.com/media/J75OKsiy1fhkaSszSZ/giphy.gif)
+
+![Motion (2)](https://media.giphy.com/media/LLpC1vsli2Hjq212s3/giphy.gif)
