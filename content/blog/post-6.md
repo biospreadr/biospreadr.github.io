@@ -49,4 +49,6 @@ For mechanical simulation, we generated an exploded view animation and an animat
 
 <!-- ![Exploded view](https://media.giphy.com/media/o7l2D80HZKMOxhWl9K/giphy.gif) -->
 
-![Motion](https://tenor.com/view/gif-20684872)
+<!-- ![Motion](https://tenor.com/view/gif-20684872) -->
+
+<div class="tenor-gif-embed" data-postid="20684872" data-share-method="host" data-width="100%" data-aspect-ratio="1.7785714285714287"><a href="https://tenor.com/view/gif-20684872"></a> </div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
