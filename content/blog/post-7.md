@@ -20,10 +20,10 @@ Over the past few weeks we've finalized the physical prototypes for BioSpreadr. 
 You can find our group brochure [here](https://www.eng.uwaterloo.ca/2021-capstone-design/mechatronics/participants-6/)
 
 ![Poster](/images/group_33_poster.png)
-BioSpreadr Poster
+<div align="center">BioSpreadr Poster</div>
 
-![BioSpreadr Marketing Video](/images/BioSpreadr Marketing Video.png)(http://www.youtube.com/watch?v=LVYpqveWw-E "BioSpreadr Marketing Video")
-BioSpreadr Marketing Video
+![`BioSpreadr Marketing Video`](/images/BioSpreadr Marketing Video.png)(http://www.youtube.com/watch?v=LVYpqveWw-E "BioSpreadr Marketing Video")
+<div align="center">BioSpreadr Marketing Video</div>
 
 ## Final Demo Videos
 Coming Soon ...
