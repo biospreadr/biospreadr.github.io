@@ -22,7 +22,7 @@ You can find our group brochure [here](https://www.eng.uwaterloo.ca/2021-capston
 ![Poster](/images/group_33_poster.png)
 **BioSpreadr Poster**
 
-![`BioSpreadr Marketing Video`](/images/BioSpreadr Marketing Video.png)(https://youtu.be/LVYpqveWw-E)
+[![BioSpreadr Marketing Video](/images/BioSpreadr Marketing Video.png)](https://youtu.be/LVYpqveWw-E)
 **BioSpreadr Marketing Video**
 
 ## Final Demo Videos
